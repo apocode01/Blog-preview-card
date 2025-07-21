@@ -104,11 +104,11 @@ body {
     gap: 1rem;
 }
 
-.container ul li:nth-child(2) {
-    font-weight: bold;
+.container ul li:nth-child(1) img {
+    height: 45px;
 }
 
-.container .author .name {
+.container ul li:nth-child(2) {
     font-weight: bold;
 }
 
